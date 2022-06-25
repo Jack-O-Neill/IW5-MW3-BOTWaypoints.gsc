@@ -1,0 +1,1 @@
+# IW5-MW3-BOTWaypoints.gsc
