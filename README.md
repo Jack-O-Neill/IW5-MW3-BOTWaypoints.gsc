@@ -71,3 +71,5 @@ Search for a few lines of text:-
     
       etc,etc,etc
       
+All gsc's were created using the botwarfare wp editor and passed all waypoint checks, if you encounter any problems feel free to contact me on Plutonium Forum or Discord
+Jack O'Neill
